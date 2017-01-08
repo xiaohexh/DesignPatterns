@@ -15,6 +15,7 @@ class ConcreteTarget implements Target {
 		System.out.println("concrete can handle concrete request");
 	}
 }
+
 // class adapter
 //class Adapter extends Adaptee implements Target {
 //	public void request() {
